@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: somostexter@gmail.com
-baseurl: ""
+baseurl: "/texter2"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
