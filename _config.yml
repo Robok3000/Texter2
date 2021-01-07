@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: somostexter@gmail.com
-baseurl: "robok3000.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
