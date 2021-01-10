@@ -4,7 +4,6 @@
 import $ from 'jquery';
 import AOS from 'aos';
 import './vendor/_transition.js';
-import './vendor/_zoom.js';
 import Formcarry from './components/_formcarry.js';
 import InfiniteScroll from './components/_infiniteScroll.js';
 import MailChimp from './components/_mailChimp.js';

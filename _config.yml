@@ -1,15 +1,14 @@
 # Site/SEO settings
 email: somostexter@gmail.com
-baseurl: "/"
-root: /texter2
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Reter
-title: Texter - Repositorio de historias extraordinarias de gente común 🙂
+title: Texter - Se está escribiendo...
 description: >
   No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.
-url: https://robok3000.github.io
+url:
 twitter_username: textercl
 default_img: /assets/images/seo.jpg
 social:

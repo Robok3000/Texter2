@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre texter
-image: /assets/images/texter.jpg
 ---
 
 ![texter](https://imgur.com/0Zpij6K.png)
