@@ -1,6 +1,6 @@
 <ul class="post__social">
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.title }}+{{ page.url | absolute_url }}{% if page.author %}+by+{{ page.author }}{% endif %}" target="_blank"><i class="fa fa-facebook"></i></a></li>
-  <li><a target="_blank" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"><i class="fab fa-twitter" aria-hidden="true"></i><span class="screen-reader-text">Twitter</span></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+  <li><a href="https://twitter.com/intent/tweet?&text={{ page.title }}+{{ page.url | absolute_url }}{% if page.author %}+escrito por+{{ page.author }}{% endif %}" target="_blank"><i class="fa fa-twitter"></i></a></li>
   <li><a href="https://plus.google.com/share?url={{ page.url | absolute_url }}" target="_blank"><i class="fa fa-google-plus"></i></a></li>
   <li><a href="https://www.linkedin.com/shareArticle?mini=true&source={{ page.title }}&summary={{ page.description }}&url={{ page.url | absolute_url}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
   <li><a href="https://www.reddit.com/submit?url={{ page.url | absolute_url }}" target="_blank"><i class="fa fa-reddit-alien"></i></a></li>
