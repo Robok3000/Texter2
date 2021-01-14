@@ -3,6 +3,7 @@ email: somostexter@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
+production_url: https://www.texter.cl/
 
 name: Reter
 title: Texter - Se está escribiendo...
