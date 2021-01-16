@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miedo de género
+title: Terror de género
 date: 2021-01-1o 20:10
 summary: Cuando era adolescente les temía a las mujeres hasta el punto de quedar paralizado. Una vez estuve sentado al lado de la niña que me gustaba durante tres horas en una fogata sin dirigirle palabra alguna.
 categories: Crónica de evento
