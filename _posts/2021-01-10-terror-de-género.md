@@ -16,17 +16,6 @@ image: /assets/images/terror.jpg
 - No.
 
 ¡Están matando a un hueón!
- Sí. A mí.
-
-
-- ¿Bailemos?
-- No.
-- ¿Baila?
-- No.
-- ¿Cómo te llamas?
-- No.
-
-¡Están matando a un hueón!
 Sí. A mí.
 
 Cuando era adolescente les temía a las mujeres hasta el punto de quedar paralizado. Una vez estuve sentado al lado de la niña que me gustaba durante tres horas en una fogata sin dirigirle palabra alguna. Lo peor fue cuando le dije a una niña que me agradaba -usando un eufemismo- ni siquiera que me gustaba, y ella me dijo que no le gustaban los negros, porque eran inferiores. Cabra lesa, no sabía que yo no soy negro, soy de piel morena castiza color ocre bosque salvaje, pero bueno, en esa época todavía no llegaban haitianos y colombianos a Chile para demostrarnos lo racistas y pueblerinos que somos.
