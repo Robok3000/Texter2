@@ -2,7 +2,7 @@
 layout: post
 title: Que bueno que madre hay una sola
 date: 2021-01-1o 20:10
-summary: Cuando era adolescente les temía a las mujeres hasta el punto de quedar paralizado. Una vez estuve sentado al lado de la niña que me gustaba durante tres horas en una fogata sin dirigirle palabra alguna.
+summary: Llegué tan curao a la casa esa noche y chocando con la mesa de centro, que mi viejo se despertó y salió a ver qué pasaba.
 categories: Crónica de evento
 author: XX
 image: /assets/images/pinocho.jpg
