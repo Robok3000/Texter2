@@ -31,7 +31,7 @@ disqus: test-apkdzgmqhj
 
 # MailChimp settings
 mailchimp_action: https://texter.us7.list-manage.com/subscribe?u=e15b637601939991ed0e8fd93&id=066a6b60ba
-mailchimp_input: b_e15b637601939991ed0e8fd93_066a6b60ba
+mailchimp_input: e15b637601939991ed0e8fd93_066a6b60ba
 
 # Author settings
 author:
