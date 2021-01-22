@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Que bueno que madre hay una sola
-date: 2021-01-1o 20:10
+date: 2021-01-15 20:10
 summary: Llegué tan curao a la casa esa noche y chocando con la mesa de centro, que mi viejo se despertó y salió a ver qué pasaba.
 categories: Crónica de evento
 author: Verborreico
