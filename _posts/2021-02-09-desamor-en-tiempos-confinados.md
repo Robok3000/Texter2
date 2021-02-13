@@ -9,6 +9,7 @@ featured_image: /assets/images/desamor.jpg
 ---
 
 Que dure y no madure.
+
 Era el consejo de amor -y para todo- que escuchaba desde chica.
 
 Certero, pero errado a la vez.
@@ -28,7 +29,7 @@ Muerte, Eclipse, Revolución, Pandemia.
 Y ahora estamos en esa delgada línea de madurar o pudrirnos.
 
 
-<center>Acto Primero</center>
+##Acto Primero
 
 Nos conocimos y esquivamos.
 
@@ -36,7 +37,7 @@ La atracción no fue inmediata.
 
 O sí?
 
-Tu intención de caerle mal a todos y mi poca paciencia para darle bola a alguien que quiere  molestar, hizo que nos nextearamos.
+Tu intención de caerle mal a todos y mi poca paciencia para darle bola a alguien que quiere  molestar, hizo que nos *nextearamos*.
 
 Pero nos tocó trabajar juntos.
 
@@ -47,7 +48,7 @@ Nos empezamos a interesar.
 Nos empezamos a gustar.
 
 
-<center>Acto Segundo</center>
+##Acto Segundo
 
 
 Llegaste a mi casa casi a media noche.
@@ -61,7 +62,7 @@ Nos empezamos a amar.
 (All You Need Is Love)
 
 
-<center>Acto Tercero</center>
+##Acto Tercero
 
 
 Rompimos mis tres reglas: nadie puede saber, siempre va a ser la última vez y la buena onda no cambia.
@@ -78,7 +79,7 @@ Me entregaste una familia con tres hijos cuando había planeado toda mi vida no 
 
 
 
-<center>Acto Cuarto</center>
+##Acto Cuarto
 
 
 Hemos vuelto a amarnos incontables veces.
@@ -91,7 +92,7 @@ Extremos que se equilibran. Y que cada vez nos cuestan más tiempo para recupera
 
 
 
-<center>Acto Quinto</center>
+##Acto Quinto
 
 
 Cincuenta y dos días juntos. A sol y a sombra. En que intentamos sacar lo mejor de nosotros. Y lo logramos. O casi.
@@ -109,6 +110,7 @@ Subirme a la balanza y llevarla al lado correcto.
 No voy a permitir que seamos una pareja fermentada.
 
 No sé si estás de acuerdo, porque estás en el living y yo en la pieza a puerta cerrada. No te voy a preguntar. No quiero discutir ni explicar.
+
 Quiero vivir. Que volvamos a vivir.
 
 Así  que,  por  ahora,  nos  vamos  al  refrigerador,  cerramos  la  puerta  y  evitamos  la putrefacción.
