@@ -29,7 +29,7 @@ Muerte, Eclipse, Revolución, Pandemia.
 Y ahora estamos en esa delgada línea de madurar o pudrirnos.
 
 
-##Acto Primero
+## Acto Primero
 
 Nos conocimos y esquivamos.
 
@@ -48,7 +48,7 @@ Nos empezamos a interesar.
 Nos empezamos a gustar.
 
 
-##Acto Segundo
+## Acto Segundo
 
 
 Llegaste a mi casa casi a media noche.
@@ -62,7 +62,7 @@ Nos empezamos a amar.
 (All You Need Is Love)
 
 
-##Acto Tercero
+## Acto Tercero
 
 
 Rompimos mis tres reglas: nadie puede saber, siempre va a ser la última vez y la buena onda no cambia.
@@ -92,7 +92,7 @@ Extremos que se equilibran. Y que cada vez nos cuestan más tiempo para recupera
 
 
 
-##Acto Quinto
+## Acto Quinto
 
 
 Cincuenta y dos días juntos. A sol y a sombra. En que intentamos sacar lo mejor de nosotros. Y lo logramos. O casi.
