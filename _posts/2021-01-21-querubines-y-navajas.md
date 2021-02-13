@@ -5,7 +5,7 @@ date: 2021-01-21 11:10
 summary: Corre el pito po conchetumare le dice el conductor del Camaro al que va atrás del asiento del  pasajero, o sea de mi asiento. Vamos a toda velocidad, cortando la noche y haciendo tronar con el reggaetón los edificios disímiles de esta ciudad gris que se moderniza poco a poco sin un rumbo fijo. Vamos todos contentos, pimpin’ y con ganas de tomar por asalto todo lo que nos rodea.
 categories: Crónica de evento
 author: Ingacio
-image: /assets/images/querubines.jpg
+image: /assets/images/querubines.png
 ---
 
 

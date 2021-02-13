@@ -5,7 +5,7 @@ date: 2021-02-09 20:10
 summary: Que dure y no madure. Era el consejo de amor -y para todo- que escuchaba desde chica. Certero, pero errado a la vez. Porque el amor debe madurar, pero no tanto, sino se pudre. Es una delgada línea.
 categories: Crónica de evento
 author: Karla
-featured_image: /assets/images/desamor.jpg
+featured_image: /assets/images/desamor.png
 ---
 
 Que dure y no madure.
