@@ -28,7 +28,7 @@ Muerte, Eclipse, Revolución, Pandemia.
 Y ahora estamos en esa delgada línea de madurar o pudrirnos.
 
 
-<center>**Acto Primero**</center>
+<center>Acto Primero</center>
 
 Nos conocimos y esquivamos.
 
@@ -47,7 +47,7 @@ Nos empezamos a interesar.
 Nos empezamos a gustar.
 
 
-<center>**Acto Segundo**</center>
+<center>Acto Segundo</center>
 
 
 Llegaste a mi casa casi a media noche.
