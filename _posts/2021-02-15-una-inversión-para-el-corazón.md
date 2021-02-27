@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Una inversión para el corazon
+title: Una inversión para el corazón
 date: 2021-02-15 20:10
 summary: Hijo, lo buscan afuera. Eran los amigos de siempre, iban a su sábado de iglesia, momento en que se compartía con la juventud parroquial y donde se aprovechaba de conocer a las chicas del barrio ampliado. Una ocasión imperdible que seguramente querían compartir conmigo ese día.
 categories: Crónica de evento

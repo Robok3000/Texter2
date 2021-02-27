@@ -2,7 +2,7 @@
 layout: post
 title: Human After All
 date: 2021-02-20 20:10
-summary: Hijo, lo buscan afuera. Eran los amigos de siempre, iban a su sábado de iglesia, momento en que se compartía con la juventud parroquial y donde se aprovechaba de conocer a las chicas del barrio ampliado. Una ocasión imperdible que seguramente querían compartir conmigo ese día.
+summary: Daft Punk se separa después de 28 años. Ese era el titular que leí al despertar y luego el video que subieron a Youtube, donde se despedían de la mejor forma: explotando.
 categories: Crónica de evento
 author: Ignacio.
 image: /assets/images/human.jpg
