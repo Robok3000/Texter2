@@ -2,7 +2,7 @@
 layout: post
 title: Human After All
 date: 2021-02-20 20:10
-summary: Daft Punk se separa después de 28 años. Ese era el titular que leí al despertar y luego el video que subieron a Youtube, donde se despedían de la mejor forma: explotando.
+summary: Daft Punk se separa después de 28 años. Ese era el titular que leí al despertar y luego el video que subieron a Youtube, donde se despedían de la mejor forma... explotando.
 categories: Crónica de evento
 author: Ignacio.
 image: /assets/images/human.jpg
