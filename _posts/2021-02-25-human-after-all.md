@@ -5,7 +5,7 @@ date: 2021-02-20 20:10
 summary: Hijo, lo buscan afuera. Eran los amigos de siempre, iban a su sábado de iglesia, momento en que se compartía con la juventud parroquial y donde se aprovechaba de conocer a las chicas del barrio ampliado. Una ocasión imperdible que seguramente querían compartir conmigo ese día.
 categories: Crónica de evento
 author: Ignacio.
-image: /assets/images/human.png
+image: /assets/images/human.jpg
 ---
 
 Daft Punk se separa después de 28 años. Ese era el titular que leí al despertar y luego el video que subieron a Youtube, donde se despedían de la mejor forma: explotando. Pena. Una profunda y amarga pena que la he ido atenuando escuchando sus discos. Uno por uno. Algunos de mis mejores recuerdos los tengo con Daft Punk de fondo y siempre en esos recuerdos hay sexo, drogas y alcohol. Pero sin duda, unos de los recuerdos que tengo atesorados en ese disco duro que todos tenemos en el cerebro que está protegido con mil contraseñas, es el concierto que dieron en Chile.

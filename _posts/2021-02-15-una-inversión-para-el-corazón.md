@@ -5,7 +5,7 @@ date: 2021-02-15 20:10
 summary: Hijo, lo buscan afuera. Eran los amigos de siempre, iban a su sábado de iglesia, momento en que se compartía con la juventud parroquial y donde se aprovechaba de conocer a las chicas del barrio ampliado. Una ocasión imperdible que seguramente querían compartir conmigo ese día.
 categories: Crónica de evento
 author: Julio
-image: /assets/images/inversion.png
+image: /assets/images/inversion.jpg
 ---
 
 Hijo, lo buscan afuera. Eran los amigos de siempre, iban a su sábado de iglesia, momento en que se compartía con la juventud parroquial y donde se aprovechaba de conocer a las chicas del barrio ampliado. Una ocasión imperdible que seguramente querían compartir conmigo ese día. No pasa nah cabros, hoy me quedo viendo tele, están dando lucha libre en La Red y dura toda la tarde.
